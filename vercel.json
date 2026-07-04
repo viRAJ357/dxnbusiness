@@ -1,6 +1,7 @@
 {
   "rewrites": [
-    { "source": "/*", "destination": "/api/streamlit" }
+    { "source": "/",          "destination": "/api/streamlit" },
+    { "source": "/api/hello", "destination": "/api/hello" }
   ],
   "functions": {
     "api/**/*.py": {
