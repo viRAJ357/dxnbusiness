@@ -5,6 +5,7 @@ export interface CartItem {
   id: string;
   name: string;
   mrp: number;
+  price: number;
   quantity: number;
 }
 
@@ -57,7 +58,7 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
 
   const clearCart = () => setItems([]);
 
-  const totalAmount = items.reduce((sum, i) => sum + i.mrp * i.quantity, 0);
+  const totalAmount = items.reduce((sum, i) => sum + i.price * i.quantity, 0);
 
   return (
     <CartContext.Provider value={{ items, addItem, removeItem, updateQuantity, clearCart, totalAmount }}>
