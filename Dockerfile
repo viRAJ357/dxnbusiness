@@ -10,6 +10,7 @@ COPY . .
 
 # Expose required port for Hugging Face Space
 ENV PORT=7860
+ENV HOST=0.0.0.0
 EXPOSE 7860
 
 # Run the Next.js development server (listens on 0.0.0.0:7860)
