@@ -1,0 +1,128 @@
+[
+  {
+    "id": "FB386",
+    "name": "DXN Aloe Vita 250ml",
+    "category": "Ayurveda & Supplements",
+    "description": "Premium Aloe Vera botanical beverage.",
+    "mrp": 200,
+    "dp": 160,
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "HF199",
+    "name": "DXN Amalaki Tablet 120's",
+    "category": "Ayurveda & Supplements",
+    "description": "Amalaki dietary supplement tablets (120 tablets x 500mg).",
+    "mrp": 455,
+    "dp": 365,
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "HF157",
+    "name": "DXN Ashwagandha",
+    "category": "Ayurveda & Supplements",
+    "description": "Ashwagandha dietary supplement (60 tablets x 500mg).",
+    "mrp": 365,
+    "dp": 290,
+    "image": "https://images.unsplash.com/photo-1628187886470-3d8495a43b23?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "HF203",
+    "name": "DXN Brahmi Tablet 120's",
+    "category": "Ayurveda & Supplements",
+    "description": "Brahmi dietary supplement tablets (120 tablets x 500mg).",
+    "mrp": 655,
+    "dp": 525,
+    "image": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "FB183",
+    "name": "DXN Cocozhi",
+    "category": "Food & Beverages",
+    "description": "Delicious cocoa drink mix with Ganoderma extract.",
+    "mrp": 990,
+    "dp": 790,
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "FB517",
+    "name": "DXN Spirulina Cereal",
+    "category": "Food & Beverages",
+    "description": "Nutritious Spirulina Cereal (20 sachets x 25g).",
+    "mrp": 1120,
+    "dp": 895,
+    "image": "https://images.unsplash.com/photo-1490474504059-1f1e15ab9822?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "FB450",
+    "name": "DXN Zhi Mocha",
+    "category": "Food & Beverages",
+    "description": "Premix coffee with cocoa and Ganoderma extract.",
+    "mrp": 1130,
+    "dp": 905,
+    "image": "https://images.unsplash.com/photo-1559525839-b184a4d698c7?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "FB390",
+    "name": "DXN Lingzhi Coffee 3 in 1",
+    "category": "Food & Beverages",
+    "description": "Specially blended premium coffee beans with Ganoderma extract.",
+    "mrp": 1025,
+    "dp": 820,
+    "image": "https://images.unsplash.com/photo-1559525839-11a0bb7fe047?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "SC022",
+    "name": "DXN Aloe. V Aqua Gel",
+    "category": "Cosmetics & Toiletries",
+    "description": "Hydrating and soothing Aloe Vera aqua gel (50ml).",
+    "mrp": 1170,
+    "dp": 975,
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "PC096",
+    "name": "DXN Ganozhi Shampoo 230ml",
+    "category": "Cosmetics & Toiletries",
+    "description": "Invigorating shampoo enriched with Ganoderma extract.",
+    "mrp": 360,
+    "dp": 300,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "PC088",
+    "name": "DXN Ganozhi Soap",
+    "category": "Cosmetics & Toiletries",
+    "description": "Specially formulated soap with Ganoderma extract and palm oil.",
+    "mrp": 165,
+    "dp": 130,
+    "image": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "HP026",
+    "name": "DXN 7 Wonders Natural Incense Sticks",
+    "category": "Home Care",
+    "description": "Natural premium incense sticks for a calming environment.",
+    "mrp": 500,
+    "dp": 400,
+    "image": "https://images.unsplash.com/photo-1608682138927-4a0b22a0129c?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "HP032",
+    "name": "Dyna Cleen (liquid detergent)",
+    "category": "Home Care",
+    "description": "High-quality liquid detergent (1L).",
+    "mrp": 505,
+    "dp": 405,
+    "image": "https://images.unsplash.com/photo-1584820927498-cafe5c152a00?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "AP040",
+    "name": "DXN Pique Tee Shirt - Yellow",
+    "category": "Apparel & Clothing",
+    "description": "Comfortable 220 GSM Pique Tee Shirt in Yellow.",
+    "mrp": 1630,
+    "dp": 1360,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&q=80&w=400"
+  }
+]
