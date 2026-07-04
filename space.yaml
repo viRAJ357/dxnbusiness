@@ -1,0 +1,4 @@
+sdk: docker
+machine: cpu
+# Optional description
+# See https://huggingface.co/docs/hub/spaces-config-reference for more options
