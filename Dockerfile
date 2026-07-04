@@ -1,21 +1,16 @@
 FROM node:20-alpine AS builder
 WORKDIR /app
 
-# Install dependencies
+# Install dependencies (including dev dependencies, needed for dev server)
 COPY package.json package-lock.json ./
-RUN npm ci --omit=dev
+RUN npm ci
 
 # Copy source code
 COPY . .
 
-# Build the Next.js app
-RUN npm run build
-
-# Production image
-FROM node:20-alpine
-WORKDIR /app
-COPY --from=builder /app .
-ENV NODE_ENV=production
+# Expose required port for Hugging Face Space
 ENV PORT=7860
 EXPOSE 7860
-CMD ["npm", "start"]
+
+# Run the Next.js development server (listens on 0.0.0.0:7860)
+CMD ["npm", "run", "dev"]
